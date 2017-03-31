@@ -1,0 +1,21 @@
+{
+  "name": "prakt3",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Elina Razina <razina_elina@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ERazina/lesson1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}
